@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+div{
+/* 	height: 100px;
+	width : 100px; */
+	padding : 30px 30px;
+	border : 2px solid black;
+	background : lightblue;
+	position: absolute;
+	align : center;
+}
+p{
+	color : purple;
+	text-align : center;
+}
